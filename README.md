@@ -21,3 +21,4 @@ Animate a render of the newly made model on a live rendering software like Blend
 
 ## CONTRIBUTERS <br>
 [Harsh-Avinash](https://github.com/Harsh-Avinash)<br>
+[Seshank-k](https://github.com/Seshank-k)<br>
