@@ -9,11 +9,6 @@ To look presentable on any video call at any given time.<br>
 For protecting yourself and maintaining privacy on the internet.<br>
 To make a replacement for video streaming through a webcam that consumes more bandwidth, resulting in using lower bandwidth.<br>
 
-## MOTIVATION <br>
-To look presentable on any video call at any given time.<br>
-For protecting yourself and maintaining privacy on the internet.<br>
-To make a replacement for video streaming through a webcam that consumes more bandwidth, resulting in using lower bandwidth.<br>
-
 ## OBJECTIVES <br>
 To make a pose-detection model using OpenCV and Tensor flow.<br>
 To also make an emotion detection model.<br>
