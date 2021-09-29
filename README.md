@@ -18,3 +18,4 @@ Animate a render of the newly made model on a live rendering software like Blend
 [Harsh-Avinash](https://github.com/Harsh-Avinash)<br>
 [Seshank-k](https://github.com/Seshank-k)<br>
 [Nishita-Varshney](https://github.com/Nishita-2605)<br>
+[Aaryan Bhatiya Ghosh](https://github.com/METALXRAY)
