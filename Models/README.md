@@ -6,7 +6,7 @@ Since the machine learning model is large in size it is not possible to push the
 
 [Data Set](https://www.kaggle.com/c/facial-keypoints-detection/data?select=SampleSubmission.csv)
 
-## For the triplet generation py file the following is applicable
+## For the triplet generation py file 
 
 __init__: The constructor takes the path to the dataset directory defined in the previous subsection. The constructor uses the list.txt to make a dictionary. This dictionary has the directory name as its key and a list of images in that directory as its value. It is here, and in the shuffling step, that the list.txt becomes an easy way for us to have a dataset overview, thus avoiding to load images for shuffling.
 
