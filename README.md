@@ -14,8 +14,14 @@ To make a pose-detection model using OpenCV and Tensor flow.<br>
 To also make an emotion detection model.<br>
 Animate a render of the newly made model on a live rendering software like Blender or Three.JS!<br>
 
+## OUTPUT <br>
+
+![work](https://user-images.githubusercontent.com/64661719/145720358-6d567064-b2aa-47c4-a70d-d6f832fccbf2.png)
+![Finaloutput](https://user-images.githubusercontent.com/64661719/145720325-79fd028d-8f74-476d-b470-88187c4b7c7a.png)
+
 ## CONTRIBUTERS <br>
 [Harsh-Avinash](https://github.com/Harsh-Avinash)<br>
 [Seshank-k](https://github.com/Seshank-k)<br>
 [Nishita-Varshney](https://github.com/Nishita-2605)<br>
 [Aaryan Bhatiya Ghosh](https://github.com/METALXRAY)
+
